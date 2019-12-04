@@ -1,0 +1,5 @@
+﻿Sid, 44, happy
+Lucy, 33, sad
+Ria, 35, happy
+Mohamed, 24, happy
+Tom, 30, happy
